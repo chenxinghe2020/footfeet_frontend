@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the frontend of FootFeet project which is an online ecommercial website allowing user to buy shoes
 
 ## Available Scripts
 
