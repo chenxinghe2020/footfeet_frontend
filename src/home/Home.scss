@@ -1,0 +1,148 @@
+.Home {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  top: 120px;
+  .home-first{
+    display: flex;
+    justify-content: space-evenly;
+    .first-one{
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+      padding-right: 30px;
+      padding-bottom: 30px;
+      background-image: url("https://images.footlocker.com/content/dam/final/footlocker/site/backpages/hoh/0415-update/Retro-4-3up.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 700px;
+    }
+
+    .first-two{
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+      padding-right: 30px;
+      padding-bottom: 30px;
+      background-image: url("https://images.footlocker.com/content/dam/final/footlocker/site/backpages/hoh/0415-update/Blazer-3up.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 700px;
+    }
+
+    .first-btn{
+      background-color: white;
+      color: black;
+      font-family: cursive;
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+  }
+
+  .home-second{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url("https://images.footlocker.com/content/dam/final/footlocker/site/homepage/20200604-Kids-Air-Max-1up.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    .second-container{
+      margin-right: 80px;
+      background-color: white;
+      .second-title{
+        font-weight: bold;
+        font-size: 55px;
+        font-family: cursive;
+      }
+      .second-subtitle{
+        font-size: 35px;
+        font-family: cursive;
+      }
+      .second-btn{
+        background-color: black;
+        color: white;
+        font-family: cursive;
+      }
+    }
+
+  }
+
+
+  .third-title{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-weight: bold;
+  }
+  .home-third{
+    display: flex;
+    justify-content: space-evenly;
+    .third-one{
+      background-image: url("https://images.footlocker.com/content/dam/final/footlocker/site/homepage/20200527-adi-United-Sneakers-m-hero.gif");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 500px;
+    }
+    .third-second{
+      background-image: url("https://static.nike.com/a/images/f_auto/q_auto/t_PDP_864_v1/cbb52303-aedc-4bdf-b908-1f5d0371003f/jordan-zoom-trunner-ultimate-running-shoe-bW1Dzz.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 500px;
+    }
+    .third-third{
+      background-image: url("https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i1-e887d5c3-44f4-42fb-be9b-8e19cbd2f1a7/superrep-go-mens-training-shoe-19sK4X.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 500px;
+    }
+
+
+  }
+
+  .home-fourth{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: url("https://images.footlocker.com/content/dam/final/footlocker/site/homepage/20200603-house-of-1s-1up.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+
+    .fourth-container{
+      margin-left: 200px;
+      background-color: white;
+      .fourth-title{
+        font-weight: bold;
+        font-size: 55px;
+        font-family: cursive;
+      }
+      .fourth-subtitle{
+        font-size: 35px;
+        font-family: cursive;
+      }
+      .fourth-btn{
+        background-color: black;
+        color: white;
+        font-family: cursive;
+      }
+    }
+
+
+  }
+
+
+
+
+
+}

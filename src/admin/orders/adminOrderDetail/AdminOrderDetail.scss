@@ -1,0 +1,12 @@
+
+.btn-row{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+
+  .ship-btn{
+    background-color: black;
+    color: white;
+    margin: 10px;
+  }
+}
